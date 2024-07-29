@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<event category="CREATE" id="0">
+  <actions>
+    <action id="709" library="1">
+      <!--action name: Highscore_Show-->
+      <kind>NORMAL</kind>
+      <allowRelative>false</allowRelative>
+      <question>false</question>
+      <canApplyTo>false</canApplyTo>
+      <actionType>FUNCTION</actionType>
+      <functionName>action_highscore_show</functionName>
+      <relative>false</relative>
+      <not>false</not>
+      <appliesTo>.self</appliesTo>
+      <arguments>
+        <argument kind="BACKGROUND"/>
+        <argument kind="MENU">1</argument>
+        <argument kind="COLOR">255</argument>
+        <argument kind="COLOR">0</argument>
+        <argument kind="FONTSTRING">"Arial Rounded MT Bold",12,0,0,0,0,0</argument>
+      </arguments>
+    </action>
+    <action id="731" library="1">
+      <!--action name: Set_Caption-->
+      <kind>NORMAL</kind>
+      <allowRelative>false</allowRelative>
+      <question>false</question>
+      <canApplyTo>false</canApplyTo>
+      <actionType>FUNCTION</actionType>
+      <functionName>action_set_caption</functionName>
+      <relative>false</relative>
+      <not>false</not>
+      <appliesTo>.self</appliesTo>
+      <arguments>
+        <argument kind="MENU">0</argument>
+        <argument kind="STRING"/>
+        <argument kind="MENU">0</argument>
+        <argument kind="STRING">lives: </argument>
+        <argument kind="MENU">0</argument>
+        <argument kind="STRING">health: </argument>
+      </arguments>
+    </action>
+  </actions>
+</event>
