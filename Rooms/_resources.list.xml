@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="tela_Estado" type="RESOURCE"/>
+  <resource name="tela_Feira" type="RESOURCE"/>
+  <resource name="Tela_Fapespa" type="RESOURCE"/>
+  <resource name="sala_pergunta_1" type="RESOURCE"/>
+  <resource name="sala_pergunta_2" type="RESOURCE"/>
+  <resource name="sala_pergunta_3" type="RESOURCE"/>
+  <resource name="sala_pergunta_4" type="RESOURCE"/>
+  <resource name="sala_pergunta_5" type="RESOURCE"/>
+  <resource name="sala_pergunta_6" type="RESOURCE"/>
+  <resource name="sala_pergunta_7" type="RESOURCE"/>
+  <resource name="sala_pergunta_8" type="RESOURCE"/>
+  <resource name="sala_pergunta_9" type="RESOURCE"/>
+  <resource name="sala_pergunta_10" type="RESOURCE"/>
+  <resource name="sala_pergunta_11" type="RESOURCE"/>
+  <resource name="sala_pergunta_12" type="RESOURCE"/>
+  <resource name="sala_Pontuacao" type="RESOURCE"/>
+</resources>
