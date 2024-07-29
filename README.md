@@ -7,3 +7,5 @@ MENDES, I. N. (2015) CRIAÇÃO DE UM ADVERGAME UTILIZANDO A ENGINE GAMEMAKER. Mo
 # material entregue a biblioteca da instituição
 https://drive.google.com/file/d/1WtSAAKnMuF3L366dXjmymtJZtUMxZpMe/view?usp=drive_link
 
+# código fonte, arquivo .gmk e instaladores compatíveis - GM8.1
+https://drive.google.com/drive/folders/1DLXtF19KrlgMJvYymuFBP_cmST62OZYJ?usp=drive_link
