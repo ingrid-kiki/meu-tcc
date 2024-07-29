@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<event category="STEP" id="0">
+  <actions>
+    <action id="603" library="1">
+      <!--action name: Code-->
+      <kind>CODE</kind>
+      <allowRelative>false</allowRelative>
+      <question>false</question>
+      <canApplyTo>true</canApplyTo>
+      <actionType>CODE</actionType>
+      <functionName/>
+      <relative>false</relative>
+      <not>false</not>
+      <appliesTo>.self</appliesTo>
+      <arguments>
+        <argument kind="STRING">    //Para mudar a opcao com o teclado
+    if keyboard_check_pressed(vk_right) selecao+=1;
+
+    //Limite das funcoes
+    if selecao&gt;opcoes selecao=1
+    if selecao&lt;1 selecao=opcoes
+
+    //Seleciona na opcao
+    if keyboard_check_pressed(vk_enter) //pode ser vk_space se preferir
+    {
+        if selecao=1 {room_goto_next();}
+        //if selecao=1 {score-=10;}
+        if selecao=2 {room_goto_next();}
+        //if selecao=2 {score-=10;}
+        if selecao=3 {room_goto_next();}
+        if selecao=3 {score+=10;}
+    }
+  
+    /*Aqui pode ser colocado qualquer função,
+    como room_goto_next(); ou show_highscore(); ai fica a escolha*/ 
+</argument>
+      </arguments>
+    </action>
+  </actions>
+</event>
