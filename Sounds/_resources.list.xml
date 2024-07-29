@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="som_fundo" type="RESOURCE"/>
+  <resource name="som_Vitoria" type="RESOURCE"/>
+  <resource name="som_Perda" type="RESOURCE"/>
+  <resource name="som_Fogos" type="RESOURCE"/>
+  <resource name="som_Bateria" type="RESOURCE"/>
+</resources>
